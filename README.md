@@ -1,2 +1,1 @@
-# if-training
-a javascript if training
+open the index.html and have fun!
